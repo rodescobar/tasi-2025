@@ -4,7 +4,7 @@
 
 ### npm
 - O que é: npm (Node Package Manager) é um gerenciador de pacotes para o Node.js. Ele permite que você instale, compartilhe e gerencie dependências de projetos JavaScript.
-- Para que serve: npm é usado para instalar pacotes necessários para o desenvolvimento de aplicações. Ele também permite que você gerencie scripts de execução definidos no arquivo `package.json`.
+- npm é usado para instalar pacotes necessários para o desenvolvimento de aplicações. Ele também permite que você gerencie scripts de execução definidos no arquivo `package.json`.
 - Exemplos de uso:
   - `npm install`: Instala todas as dependências listadas no arquivo `package.json`.
   - `npm install <package-name>`: Instala um pacote específico e adiciona-o ao `package.json`.
