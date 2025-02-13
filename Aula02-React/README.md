@@ -1,4 +1,4 @@
-# Aula 02 - React (Data: 2023-10-05)
+# Aula 02 - React (Data: 13/02/2025)
 
 ## Conteúdo da Aula
 
