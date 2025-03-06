@@ -3,7 +3,7 @@
 ## Descrição do Exercício
 Utilizando React, monte uma calculadora com a interface semelhante à imagem abaixo:
 
-![Calculadora]("https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/pt_BR/d89ae5a212abc762efe70b32b07dce2b.png")
+![Calculadora](https://help.apple.com/assets/678AF3BDAED93ED9D1042F84/678AF3C89EC3C835220A70FE/pt_BR/d89ae5a212abc762efe70b32b07dce2b.png)
 
 ## Funcionalidades
 - Todos os botões deverão funcionar corretamente:
