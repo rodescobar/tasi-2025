@@ -57,24 +57,24 @@
 ## Aula 03 - 19/10/2023
 - Não haverá conteúdo, será aplicado avaliação de disciplina EAD
 
-## Aula 04 - 20/02/2024
+## Aula 04 - 20/02/2025
 - Utilização de componentes
 - Criação do componente App
 - Import em Index.js
 - Variáveis (useState)
 
-## Aula 05 - 26/02/2024
+## Aula 05 - 26/02/2025
 - Passagem de parâmetros de pai para filho em componentes React
 - Exemplos práticos e exercícios
 - [Link para a pasta da aula](./Aula05)
 
-## Aula 06 - 27/02/2024
+## Aula 06 - 27/02/2025
 - Importação de arquivo JSON
 - Percorrer o arquivo JSON e montar uma tabela em React usando `map`
 - Adicionar um input para pesquisa e utilizar `filter` para filtrar os dados da tabela
 - [Link para a pasta da aula](./Aula06)
 
-## Aula 07 - 06/03/2024
+## Aula 07 - 06/03/2025
 - Exercício: Criar uma calculadora em React
 - Todos os botões deverão funcionar:
   - `C` = limpar
@@ -82,10 +82,12 @@
   - `=` = calcular resultado
 - [Link para a pasta da aula](./Aula07)
 
-## Aula 09 - 13/03/2024
+## Aula 09 - 13/03/2025
 - Calculadora em React
 - Utilização de passagem de parâmetro de Filho para Pai
 - [Link para a pasta da aula](./Aula09.md)
 - Axios
 - [Link para a pasta da aula](./Aula09-Axios.md)
 
+## Aula 10 - 19/03/2025
+- Exercícios (Axios)
