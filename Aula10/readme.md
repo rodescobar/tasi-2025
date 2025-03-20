@@ -11,7 +11,7 @@
 02) Utilizando a API https://jsonplaceholder.typicode.com/ URI posts, monte um Blog seguindo os dados recebidos. (Imagem, titulo, body)
 
 ```Lista de presentes em sala
-**Os alunos abaixo podem efetuar a enrtega até 20/03/2025**
+**Os alunos abaixo podem efetuar a entrega até 20/03/2025**
 
 - Mateus
 - Giovane
