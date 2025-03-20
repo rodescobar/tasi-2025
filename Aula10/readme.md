@@ -10,15 +10,15 @@
 
 02) Utilizando a API https://jsonplaceholder.typicode.com/ URI posts, monte um Blog seguindo os dados recebidos. (Imagem, titulo, body)
 
-``` Lista de presentes em sala
-- Matheus
-- Giovani
+```Lista de presentes em sala
+- Mateus
+- Giovane
 - Vitor Correa
 - Pedro
 - Yago
 - Vitor
 - Fabricio
-- Baunilha
+- Baunilia
 - Mariana
 - Nathalia
-´´´
+- Samira´´´
