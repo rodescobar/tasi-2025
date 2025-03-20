@@ -21,4 +21,4 @@
 - Baunilia
 - Mariana
 - Nathalia
-- Samira´´´
+- Samira
