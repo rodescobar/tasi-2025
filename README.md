@@ -111,4 +111,6 @@
 - Acesse a [API](https://rickandmortyapi.com/documentation)
 - Crie um componente CARD (não utilize o nome CARD para não gerar erros com o Material UI)
 - Para cada personagem recebido (Axios), você deverá carregar seu componente CARD, passando por parâmetro os dados conforme imagem a seguir.
+
+
 ![CARD](./Aula12/exemplo.png)
