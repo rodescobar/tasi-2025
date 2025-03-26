@@ -91,3 +91,24 @@
 
 ## Aula 10 - 19/03/2025
 - Exercícios (Axios)
+- Trabalho para os presentes
+
+## Aula 11 - 20/03/2025
+- Trabalhando com Material UI
+
+## Aula 12 - 26/03/2025
+- **Trabalho**
+ - Data de entrega: 27/03/2025
+ - Nota: 1,00
+ - Enviar Link do git para e-mail rodrigo.noescobar@gmail.com
+  - Assunto: TASI - Trabalho Aula 12
+
+
+- Utilizando MateiralUI, itens:
+  - CARD
+  - IMAGE
+  - E qual mais achar necessário
+- Acesse a [API](https://rickandmortyapi.com/documentation)
+- Crie um componente CARD (não utilize o nome CARD para não gerar erros com o Material UI)
+- Para cada personagem recebido (Axios), você deverá carregar seu componente CARD, passando por parâmetro os dados conforme imagem a seguir.
+![CARD](aula12/exemplo.png)
