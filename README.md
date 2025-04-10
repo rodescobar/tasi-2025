@@ -121,3 +121,11 @@
 
 ## Aula 14 - 02/04/2025
 - Continuação trabalhando com Rotas
+
+## Aula 15 - 09/04/2025
+- Efetuando Login no Backend
+- O que é token e para que serve
+
+## Aula 16 - 10/04/2025
+- Exercício
+- [Link para a pasta da Aula 16](./aula16)
