@@ -129,3 +129,7 @@
 ## Aula 16 - 10/04/2025
 - Exercício
 - [Link para a pasta da Aula 16](./aula16)
+
+## Aula 17 - 07/05/2025 (Após avaliações)
+- Trabalho 
+- [Orientação](./Aula17)
